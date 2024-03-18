@@ -1,0 +1,12 @@
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.csproj.AssemblyReference.cache
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.GeneratedMSBuildEditorConfig.editorconfig
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.AssemblyInfoInputs.cache
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.AssemblyInfo.cs
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.csproj.CoreCompileInputs.cache
+E:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.MvcApplicationPartsAssemblyInfo.cache
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.csproj.AssemblyReference.cache
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.GeneratedMSBuildEditorConfig.editorconfig
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.AssemblyInfoInputs.cache
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.AssemblyInfo.cs
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.csproj.CoreCompileInputs.cache
+D:\project_Angular\apiCourses\courses\obj\Debug\net6.0\courses.MvcApplicationPartsAssemblyInfo.cache
